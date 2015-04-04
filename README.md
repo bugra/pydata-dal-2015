@@ -1,12 +1,12 @@
 A Thorough Machine Learning Pipeline via Scikit-Learn
 ===
 
-This repo includes all of the ipython notebooks that I will go through
+This repo includes all of the IPython notebooks that I will go through
 in the [tutorial](http://pydata.org/dal2015/abstracts/#338). It is targeted to 
 people who have intermediate knowledge in machine learning and wants to learn
-more advanced features of the 
+more advanced features of the Scikit-learn.
 
-It covers the following concepts in Scikit-Learn:
+It tries to cover the following concepts in Scikit-Learn:
 
 1. Pipeline
 2. Cross-Validation
