@@ -21,5 +21,5 @@ have at least those versions in that notebook. Otherwise, please feel free to
 open an issue in this repository.
 
 You could browse the IPython notebooks in
-[nbviewer]
+[nbviewer](http://nbviewer.ipython.org/github/bugra/pydata-dal-2015/tree/master/)
 
