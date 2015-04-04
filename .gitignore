@@ -1,0 +1,8 @@
+# Serializations Directory
+serializations/
+
+# IPython Notebook Checkpoints
+.ipynb_checkpoints/
+
+# DS Store
+.DS_Store
